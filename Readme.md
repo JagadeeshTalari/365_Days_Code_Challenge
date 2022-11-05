@@ -10,3 +10,22 @@
     
         - props
         - UserState
+        
+### 04/11/22:
+
+- Listed to Javascript classes in LCO
+
+- Topics Covered:
+        
+        - promise
+        - async , await
+        - EventLoop
+        - All AdvancIsh videos in LCO
+-  Worked on Paytm Clone for a while      
+        
+### 05/11/22:
+
+-  Worked on Paytm Clone and desinged:
+
+    - Bills Section and updated in GitHub
+        
