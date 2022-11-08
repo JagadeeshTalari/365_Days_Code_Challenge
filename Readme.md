@@ -29,3 +29,7 @@
 
     - Bills Section and updated in GitHub
         
+### 08/11/22:
+    - Spent whole day in searching rooms
+    - no efforts kept for coding today.
+    - from tomorrow I will work hard with focus
