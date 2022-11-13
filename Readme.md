@@ -33,3 +33,10 @@
     - Spent whole day in searching rooms
     - no efforts kept for coding today.
     - from tomorrow I will work hard with focus
+    
+### 09/11/12 - 13/11/22:
+    - worked on paytm clone build 90% of it for md screen
+    - Listened to live classes of Javascript 
+    - Today 13th of Nov - Read Docs of Javascript reading DOM concepts 
+    - finished 3 basic dom assignments out of 60. 5% of DOM projects done
+    
