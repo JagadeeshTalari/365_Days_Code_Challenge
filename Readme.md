@@ -40,3 +40,9 @@
     - Today 13th of Nov - Read Docs of Javascript reading DOM concepts 
     - finished 3 basic dom assignments out of 60. 5% of DOM projects done
     
+### 14/11/22:
+    - Not a productive day, but tried to make some progress.
+    - Day didn't go well. Trying to build a habit of reading docs but struggling.
+    - read docs related to DOM-JavaScript.
+    
+    
