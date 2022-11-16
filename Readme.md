@@ -45,4 +45,7 @@
     - Day didn't go well. Trying to build a habit of reading docs but struggling.
     - read docs related to DOM-JavaScript.
     
+### 16/11/22:
+    - Read Docs on CSS 
+    - Working on JS DOM Projects
     
