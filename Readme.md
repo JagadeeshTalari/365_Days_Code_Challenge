@@ -49,3 +49,7 @@
     - Read Docs on CSS 
     - Working on JS DOM Projects
     
+### 15/12/22:
+
+     - Today I completed the git and github course in lco. I should re-watch the videos and should take down the notes. 
+     
