@@ -51,5 +51,10 @@
     
 ### 15/12/22:
 
-     - Today I completed the git and github course in lco. I should re-watch the videos and should take down the notes. 
+     - Today I completed the git and github course in lco. I should re-watch the videos and should take down the notes.
+     
+     
+### 02/01/23:
+
+    - MongoDB Basics and React Classes
      
