@@ -57,4 +57,9 @@
 ### 02/01/23:
 
     - MongoDB Basics and React Classes
+    
+### 13/02/23:
+
+   - Restarted the Web-Dev Learning Journey.
+   
      
